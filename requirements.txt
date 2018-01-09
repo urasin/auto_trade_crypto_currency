@@ -1,0 +1,4 @@
+ipython
+pybitflyer
+pubnub>=4.0.13
+influxdb
